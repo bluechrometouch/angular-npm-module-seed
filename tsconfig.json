@@ -19,7 +19,7 @@
 				"node_modules/rxjs/*"
 			]
 		},
-		"rootDir": "src",
+		"rootDir": "tmp/src-inlined",
 		"outDir": "dist",
 		"sourceMap": true,
 		"inlineSources": true,
@@ -31,7 +31,7 @@
 		]
 	},
 	"files": [
-		"./src/index.ts"
+		"tmp/src-inlined/index.ts"
 	],
 	"angularCompilerOptions": {
 		"strictMetadataEmit": true,

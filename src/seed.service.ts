@@ -6,7 +6,7 @@ export class SeedService {
 	constructor() { }
 
 	sayHello() {
-		return "Hello!";
+		return "Test XYZ";
 	}
 
 }
